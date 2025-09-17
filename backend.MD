@@ -40,7 +40,7 @@ mkdir /app
 Download the application code to created app directory.
 
 ```
-curl -o /tmp/backend.zip https://expense-builds.s3.us-east-1.amazonaws.com/expense-backend-v2.zip
+curl -o /tmp/backend.zip https://expense-joindevops.s3.us-east-1.amazonaws.com/expense-backend-v2.zip
 ```
 ```
 cd /app
